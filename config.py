@@ -31,13 +31,13 @@ DOWNLOAD_DIR = "downloads"
 ALLOWED_GROUP_IDS = []
 
 # Owner user ID
-OWNER_ID = 0
+OWNER_ID = 8327651421
 
 # Maximum file size (e.g., 4GB)
 MAX_FILE_SIZE = 4 * 1024 * 1024 * 1024  # 4GB in bytes
 
 # Premium users and daily limits
-PREMIUM_USERS = {5756495153}  # Add premium user IDs here
+PREMIUM_USERS = {8327651421}  # Add premium user IDs here
 DAILY_LIMIT_FREE = 15  # Videos per day for free users
 DAILY_LIMIT_PREMIUM = 30  # Videos per day for premium users
 
