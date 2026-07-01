@@ -27,13 +27,11 @@ DOWNLOAD_DIR = "downloads"
 # --
 
 # Allowed group IDs
-ALLOWED_GROUP_IDS = [
-    ,  # Your group ID from logs
-    # Add more group IDs as needed
-]
+# Allowed group IDs
+ALLOWED_GROUP_IDS = []
 
 # Owner user ID
-OWNER_ID =   # Owner's user ID
+OWNER_ID = 0
 
 # Maximum file size (e.g., 4GB)
 MAX_FILE_SIZE = 4 * 1024 * 1024 * 1024  # 4GB in bytes
